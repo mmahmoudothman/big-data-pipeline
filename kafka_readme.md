@@ -2,6 +2,9 @@
 
 This Kafka Producer application reads data from a CSV file, converts it into JSON format, and publishes it to a Kafka topic. It is a part of a larger system for real-time data processing.
 
+
+![App Screenshot](https://github.com/mmahmoudothman/big-data-pipeline/blob/main/Kafka_Topic.png)
+
 ## Prerequisites
 
 Ensure you have the following prerequisites before running the Kafka Producer:
