@@ -55,7 +55,7 @@ source start-kafka.sh
 
 ```
 
-2. Run Kafka Producer Project
+2. Run Kafka Producer Project.
 3. Ensure Consumer Project JAR Exists
     - Make sure the consumer project JAR file is available on the desktop of the virtual machine.
 
